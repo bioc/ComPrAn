@@ -1,7 +1,7 @@
 Package: ComPrAn
 Type: Package
 Title: Complexome Profiling Analysis package
-Version: 1.5.0
+Version: 1.5.1
 Authors@R: 
     c(person(given = "Rick",
            family = "Scavetta",
@@ -10,7 +10,7 @@ Authors@R:
       person(given = "Petra",
            family = "Palenikova",
            role = c("aut", "cre"),
-           email = "pp451@cam.ac.uk",
+           email = "palenikova3@gmail.com",
            comment = c(ORCID = "0000-0002-2465-4370")))
 Description: This package is for analysis of SILAC labeled complexome profiling
     data. It uses peptide table in tab-delimited format as an input and produces
