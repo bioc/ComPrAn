@@ -12,7 +12,7 @@ library(readr)
 library(shinyjs)
 
 ##global options
-options(shiny.maxRequestSize = 150*1024^2)
+options(shiny.maxRequestSize = 1000*1024^2)
 
 plotBkg <- "#ecf0f5"
 rbCol <- RColorBrewer::brewer.pal(3, "Set1")[1:2]
